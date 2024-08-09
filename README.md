@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/ed77d0e1-071c-44cc-81fb-ccc551f0105f" alt="INFINITY BANNER" width="970" height="300"/>
 <hr>
 
-# INFINITY 
+# INFINITY ( In Development )
 > INFINITY is an E-Commerce platform that focuses on branded and within the company shoe designs. Our primary focus is on providing modern footwear that represents the "Modern Horizon" aesthetic and current fashion-forward styles. INFINITY intends to disrupt the shoe industry and gain a major market share by offering affordable prices and special discounts.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="35" height="35" style="vertical-align: middle"/> Key Features
