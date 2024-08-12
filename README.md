@@ -21,6 +21,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="35" height="35" style="vertical-align: bottom"/> Limitations
 - The Site is not Currently Responsive
 - No Administrator Yet
+- Limited Products for a while
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Phone" width="35" height="35" style="vertical-align: bottom"/> Website Pages
 
