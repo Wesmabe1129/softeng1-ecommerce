@@ -7,20 +7,17 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="35" height="35" style="vertical-align: middle"/> Key Features
 
-- 🔒 Secure user authentication (custom accounts, Google, and Facebook login)
+- 🔒 Secure user authentication ( custom accounts )
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera with Flash" width="25" height="25" style="vertical-align: bottom" /> Monthly special discounts
-- 💲💚 Exclusive discount vouchers for users
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="25" height="25" style="vertical-align: bottom"/> Personalized product recommendations based on user preferences
 - 💝 Wishlist functionality for favorite products
 - 🧺 Intuitive shopping cart management
 - 💲 Featured discounted and new arrival products on the home screen
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20with%20Wings.png" alt="Money with Wings" width="25" height="25" style="vertical-align: middle"/> Multiple payment options
 - 🗺️ Customizable delivery locations
 - ⭐ User product reviews and ratings
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="35" height="35" style="vertical-align: bottom"/> Limitations
 - The Site is not Currently Responsive
-- No Administrator Yet
 - Limited Products for a while
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Phone" width="35" height="35" style="vertical-align: bottom"/> Website Pages
@@ -29,10 +26,11 @@
 2. Home Page
 3. Product Shop
 4. Product Info
-5. User Dashboard
+5. User Profile
 6. Checkout Process
 7. Shopping Cart
 8. About Us
+9. Admin 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Clinking%20Beer%20Mugs.png" alt="Clinking Beer Mugs" width="35" height="35" style="vertical-align: bottom"/> Contributors
 ` Meet the INFINITY Team `
